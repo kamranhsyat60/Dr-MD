@@ -1,7 +1,7 @@
 services:
   - type: web
     name: Dr-MD
-    repo:https://github.com/drkamran6/Dr-MD.git
+    repo:
     branch: main
     env: docker
     dockerfilePath: Dockerfile
