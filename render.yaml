@@ -1,7 +1,7 @@
 services:
-  - type: web
+  - type: main
     name: Dr-MD
-    repo:
+    repo:https://github.com/A-d-i-t-h-y-a-n/hermit-bot.git
     branch: main
     env: docker
     dockerfilePath: Dockerfile
